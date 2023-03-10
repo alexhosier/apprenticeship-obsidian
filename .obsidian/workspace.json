@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "88e454bff04b87c9",
+        "id": "e86fdf5c532977e0",
         "type": "tabs",
         "children": [
           {
-            "id": "168fa796d925f731",
+            "id": "fd350c94f13f51e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 - Basic Networking Concepts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.2 - Basic Networking Concepts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.2 - Basic Networking Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.2 - Basic Networking Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.2 - Basic Networking Concepts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "168fa796d925f731",
+  "active": "fd350c94f13f51e8",
   "lastOpenFiles": [
     "1.2 - Network Topologies and Access Methods.md",
     "1.2 - Waste Electrical Equipment.md",
